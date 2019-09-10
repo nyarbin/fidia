@@ -1,0 +1,14 @@
+Basic outline of functioning:
+
+- fetch current IRS schemas
+- collect data from user, with option to save
+- compose data into submission
+- validate
+- compose submission into message
+- transmit
+
+Python libraries used:
+
+- zipfile
+- xml.etree.ElementTree
+- lxml (for validation?)
